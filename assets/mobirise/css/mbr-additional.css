@@ -2490,8 +2490,16 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rpm9tN8Hle {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rpm9tN8Hle P {
+  color: #767676;
+}
 .cid-rplZ5KAbiA {
-  padding-top: 120px;
+  padding-top: 45px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
